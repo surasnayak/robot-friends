@@ -33,6 +33,10 @@ You will also see any lint errors in the console.
 
 * **Suras Kumar Nayak** - [Profile](https://github.com/surasnayak)
 
+## Screenshots
+
+![Application Screenshot](/resources/images/application-screenshot.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
